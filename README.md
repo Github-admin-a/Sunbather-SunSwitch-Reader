@@ -158,7 +158,3 @@ If that matters on your network, keep the device on an isolated IoT VLAN, or add
 - **V3.8**: Energy Saving shown in the mode, WiFi auto-reconnect and self-restart, no more hanging in the WiFi portal after a power cut
 
 ---
-
-## License
-
-MIT. See [LICENSE](LICENSE).
