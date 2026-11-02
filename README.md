@@ -33,7 +33,7 @@ An ESP8266 (Wemos D1 Mini) bridge that reads live data from a **SunSwitch solar 
 |---|---|
 | Wemos D1 Mini (ESP8266) | Any ESP8266 board should work with pin changes |
 | Connection to the SunSwitch serial port | RX, TX and GND |
-| Power | The SunSwitch 5 V rail or an external 5 V supply |
+| Power | The SunSwitch 5 V rail  |
 
 ### Wiring
 
